@@ -14,7 +14,7 @@ html, body {
 body{
     font-family: Roboto , 'Arial';
     background-color: #2b2b2b;
-    height: 500vh;
+    height: 550vh;
 }
 .nav-bar{
     display: flex;
